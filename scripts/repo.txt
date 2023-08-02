@@ -1,4 +1,4 @@
-https://github.com/FeatureIDE/FeatJAR-base.git base
-https://github.com/FeatureIDE/FeatJAR-formula.git formula
-https://github.com/FeatureIDE/FeatJAR-formula-analysis-sat4j.git formula-analysis-sat4j
-https://github.com/FeatureIDE/FeatJAR-gradle-plugins.git gradle-plugins
+https://github.com/Rahel12342/FeatJAR-base.git base
+https://github.com/Rahel12342/FeatJAR-formula.git formula
+https://github.com/Rahel12342/FeatJAR-formula-analysis-sat4j.git formula-analysis-sat4j
+https://github.com/Rahel12342/FeatJAR-gradle-plugins.git gradle-plugins
